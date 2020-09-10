@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi my coderFriend 👋, I'm Gabriel Quaglio</h1>
+<h3 align="center">Code your life</h3>
 
-<!--
-**GabrielQuaglio/GabrielQuaglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
+  I'm Back-End Java Development Student and I'am in a serious love affair with technology and with an immense desire to learn more.
+</h4
 
-Here are some ideas to get you started:
+<br>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I'm currently looking for my first opportunity in the development world
+- 🌱 I’m currently learning about Java development
+- 💬 Ask me about: **HTML,CSS,Javascript,Java**
+- 📫 How to reach me: **quaglio.gabriel1304@gmail.com**
+
