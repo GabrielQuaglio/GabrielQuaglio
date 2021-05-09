@@ -11,6 +11,6 @@
 
 - 🔭 I'm currently looking for my first opportunity in the development world
 - 🌱 I’m currently learning about Java development
-- 💬 Ask me about: **HTML,CSS,Javascript,Java**
+- 💬 Ask me about: **Java**
 - 📫 How to reach me: **quaglio.gabriel1304@gmail.com**
 
